@@ -1,6 +1,13 @@
-# Getting Started with Create React App
+# Dashboard de vente TP 2
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).\
+
+Projet React disponible sur le dépôt, après récupération et dans le dépot en local.\
+Lancer la commande pour la mettre les dépendences : `npm install`
+
+
+Puis suivre le reste 
+
 
 ## Available Scripts
 
